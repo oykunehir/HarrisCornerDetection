@@ -1,6 +1,8 @@
 
 Consistency of image edge filtering is of prime importance for 3D interpretation of image sequences using feature tracking algorithms. To cater for image regions containing texture and isolated features, a combined corner and edge detector based on the local auto-correlation function is utilised, and it is shown to perform with good consistency on natural imagery.
 
-![Alt text](/output.png?raw=true "Optional Title")
+<div align="center">
+    <img src="/output.png" width="400px"</img> 
+</div>
 
 Source: http://www.bmva.org/bmvc/1988/avc-88-023.pdf
